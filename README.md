@@ -1,4 +1,4 @@
-# ReactNative-Resources
+# Adopt-ReactNative
 List of resources to help teams adopt React Native
 
 ### Getting Started
