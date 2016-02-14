@@ -9,6 +9,9 @@ List of resources to help teams adopt React Native
 - [Navigator](https://facebook.github.io/react-native/docs/navigator.html): React Native's Navigator lets you transition between different scenes in your app.  
 - [React Native Router Flux](https://github.com/aksonov/react-native-router-flux): Router for React Native based on exNavigator
 
+### Styling
+- [Style Framework](https://facebook.github.io/react-native/docs/style.html): Javascript styling for React Native.
+
 ### Advanced
 - [React Native for Android: How we built the first cross-platform React Native app](https://code.facebook.com/posts/1189117404435352/react-native-for-android-how-we-built-the-first-cross-platform-react-native-app/?__mref=message_bubble): The Facebook Ads Manager team talks about their experience building both an iOS and Android ads manager app. 
 - [Building a native Soundcloud Android app with React Native and Redux](https://wiredcraft.com/blog/native-soundcloud-android-app/)
