@@ -11,6 +11,7 @@ List of resources to help teams adopt React Native
 
 ### Styling
 - [Style Framework](https://facebook.github.io/react-native/docs/style.html): Javascript styling for React Native.
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/): React Native uses Flexbox to create layouts. This is a complete guide on how Flexbox works. 
 
 ### Advanced
 - [React Native for Android: How we built the first cross-platform React Native app](https://code.facebook.com/posts/1189117404435352/react-native-for-android-how-we-built-the-first-cross-platform-react-native-app/?__mref=message_bubble): The Facebook Ads Manager team talks about their experience building both an iOS and Android ads manager app. 
