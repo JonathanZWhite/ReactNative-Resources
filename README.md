@@ -7,5 +7,8 @@ List of resources to help teams adopt React Native
 - [Egghead: React Native Fundementals (video)](https://egghead.io/series/react-native-fundamentals): Explains the fundamentals of using React Native, including routing, touch events, and native components.
 
 
+### Advanced
+- [React Native for Android: How we built the first cross-platform React Native app](https://code.facebook.com/posts/1189117404435352/react-native-for-android-how-we-built-the-first-cross-platform-react-native-app/?__mref=message_bubble): The Facebook Ads Manager team talks about their experience building both an iOS and Android ads manager app. 
+
 ### Examples
 - [React Native using Redux](https://github.com/alinz/example-react-native-redux):  Example of using React Native with Redux's Flux implementation.
