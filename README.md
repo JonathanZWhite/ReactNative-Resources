@@ -3,9 +3,8 @@ List of resources to help teams adopt React Native
 
 ### Getting Started
 - [Facebook's React Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html): Straight from the horse's mouth.
-
 - [Egghead: React Native Fundementals (video)](https://egghead.io/series/react-native-fundamentals): Explains the fundamentals of using React Native, including routing, touch events, and native components.
-
+- [Navigator](https://facebook.github.io/react-native/docs/navigator.html): React Native's Navigator lets you transition between different scenes in your app.  
 
 ### Advanced
 - [React Native for Android: How we built the first cross-platform React Native app](https://code.facebook.com/posts/1189117404435352/react-native-for-android-how-we-built-the-first-cross-platform-react-native-app/?__mref=message_bubble): The Facebook Ads Manager team talks about their experience building both an iOS and Android ads manager app. 
