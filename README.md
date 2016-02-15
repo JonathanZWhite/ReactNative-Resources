@@ -8,6 +8,7 @@ List of resources to help teams adopt React Native
 ### Router
 - [Navigator](https://facebook.github.io/react-native/docs/navigator.html): React Native's Navigator lets you transition between different scenes in your app.  
 - [React Native Router Flux](https://github.com/aksonov/react-native-router-flux): Router for React Native based on exNavigator
+- [React Native Navigator.NavigationBar](http://stackoverflow.com/questions/33680794/react-native-navigator-navigationbar-where-are-the-docs): As of right now, React Native's Navigator doesn't have documentation on Navigation Bar. This Stack Overflow post provides a useful example as well as links to other examples. 
 
 ### Styling
 - [Style Framework](https://facebook.github.io/react-native/docs/style.html): Javascript styling for React Native.
