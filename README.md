@@ -12,6 +12,8 @@ List of resources to help teams adopt React Native
 
 ### Styling
 - [Style Framework](https://facebook.github.io/react-native/docs/style.html): Javascript styling for React Native.
+- [React Native Layout System](http://moduscreate.com/react-native-layout-system/): A dead simple tutorial that teach you the fundementals of styling in React Native.
+- [Aligning Children using Flexbox in React Native](http://moduscreate.com/react-native-layout-system/): Learn how to align things using FlexBox.
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/): React Native uses Flexbox to create layouts. This is a complete guide on how Flexbox works. 
 
 ### Advanced
