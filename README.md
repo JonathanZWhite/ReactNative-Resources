@@ -4,6 +4,7 @@ List of resources to help teams adopt React Native
 ### Getting Started
 - [Facebook's React Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html): Straight from the horse's mouth.
 - [Egghead: React Native Fundementals (video)](https://egghead.io/series/react-native-fundamentals): Explains the fundamentals of using React Native, including routing, touch events, and native components.
+- [UIExplorer](https://github.com/facebook/react-native/tree/60b56455c4b30cbd0cb29790a7751329576ae8d6/Examples/UIExplorer): Great list of how to use various React Native components. 
 
 ### Router
 - [Navigator](https://facebook.github.io/react-native/docs/navigator.html): React Native's Navigator lets you transition between different scenes in your app.  
