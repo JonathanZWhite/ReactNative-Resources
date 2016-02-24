@@ -1,4 +1,4 @@
-# Adopt-ReactNative
+# ReactNative Resources
 List of resources to help teams adopt React Native
 
 ### Getting Started
@@ -24,3 +24,6 @@ List of resources to help teams adopt React Native
 ### Examples
 - [SoundRedux Native](https://github.com/fraserxu/soundredux-native): Android SoundCloud client built with React Native and Redux.
 - [React Native using Redux](https://github.com/alinz/example-react-native-redux):  Example of using React Native with Redux's Flux implementation.
+
+### Misc
+-[React Native Vector Icons](https://github.com/oblador/react-native-vector-icons)
