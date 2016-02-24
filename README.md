@@ -26,4 +26,4 @@ List of resources to help teams adopt React Native
 - [React Native using Redux](https://github.com/alinz/example-react-native-redux):  Example of using React Native with Redux's Flux implementation.
 
 ### Misc
--[React Native Vector Icons](https://github.com/oblador/react-native-vector-icons)
+- [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons)
