@@ -21,6 +21,9 @@ List of resources to help teams adopt React Native
 - [React Native for Android: How we built the first cross-platform React Native app](https://code.facebook.com/posts/1189117404435352/react-native-for-android-how-we-built-the-first-cross-platform-react-native-app/?__mref=message_bubble): The Facebook Ads Manager team talks about their experience building both an iOS and Android ads manager app. 
 - [Building a native Soundcloud Android app with React Native and Redux](https://wiredcraft.com/blog/native-soundcloud-android-app/)
 
+### Useful Libraries
+- [React Native Image Picker](https://github.com/marcshilling/react-native-image-picker): High level API that allows you to access device camera and camera roll. 
+
 ### Examples
 - [SoundRedux Native](https://github.com/fraserxu/soundredux-native): Android SoundCloud client built with React Native and Redux.
 - [React Native using Redux](https://github.com/alinz/example-react-native-redux):  Example of using React Native with Redux's Flux implementation.
