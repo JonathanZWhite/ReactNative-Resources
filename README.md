@@ -22,7 +22,8 @@ List of resources to help teams adopt React Native
 - [Building a native Soundcloud Android app with React Native and Redux](https://wiredcraft.com/blog/native-soundcloud-android-app/)
 
 ### Useful Libraries
-- [React Native Image Picker](https://github.com/marcshilling/react-native-image-picker): High level API that allows you to access device camera and camera roll. 
+- [Image Picker](https://github.com/marcshilling/react-native-image-picker): High level API that allows you to access device camera and camera roll. 
+- [Swipeout](https://github.com/dancormier/react-native-swipeout): Library for iOS-style swipeout buttons that appear from behind a component.
 
 ### Examples
 - [SoundRedux Native](https://github.com/fraserxu/soundredux-native): Android SoundCloud client built with React Native and Redux.
